@@ -5,9 +5,9 @@ BIGmart_Data_Analysis &amp; Visualization - PowerBI
 BIGmart dashboard showing insights into various aspects of sales performance. Below is a breakdown of the different sections and their relevance:
 
 1.	Total Sales (₹ 1.20M)
-○	This KPI highlights the total revenue generated across all outlets.
+- This KPI highlights the total revenue generated across all outlets.
 2.	Average Sales (₹ 141)
-○	This metric shows the average sales per item, providing insight into the pricing and customer spending patterns.
+-	This metric shows the average sales per item, providing insight into the pricing and customer spending patterns.
 3.	No. of Items (8523)
 ○	Represents the total number of items sold, indicating the volume of sales.
 4.	Average Ratings (3.9)
