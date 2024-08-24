@@ -9,9 +9,9 @@ BIGmart dashboard showing insights into various aspects of sales performance. Be
 2.	Average Sales (₹ 141)
 -	This metric shows the average sales per item, providing insight into the pricing and customer spending patterns.
 3.	No. of Items (8523)
--	Represents the total number of items sold, indicating the volume of sales.
+- Represents the total number of items sold, indicating the volume of sales.
 4.	Average Ratings (3.9)
--	Shows the average customer satisfaction rating, suggesting overall customer sentiment towards the products.
+- Shows the average customer satisfaction rating, suggesting overall customer sentiment towards the products.
 5.	Outlet Establishment Over Time
 -	A line graph depicting sales trends from 2010 to 2020. A significant peak is observed around 2015, indicating a possible promotional event or the opening of new outlets.
 6.	Outlet Size Distribution
